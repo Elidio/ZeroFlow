@@ -1,5 +1,0 @@
-/home/elidio/zeroflow/build/CMakeFiles/tests.dir
-/home/elidio/zeroflow/build/CMakeFiles/size_demo.dir
-/home/elidio/zeroflow/build/CMakeFiles/test.dir
-/home/elidio/zeroflow/build/CMakeFiles/edit_cache.dir
-/home/elidio/zeroflow/build/CMakeFiles/rebuild_cache.dir

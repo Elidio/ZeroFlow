@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/size_demo.dir/tests/size_demo.cpp.o -o size_demo 
