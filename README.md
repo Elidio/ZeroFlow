@@ -7,7 +7,7 @@ Minimalist, header-only C++11 finite state machine library focused on timing-bas
 - Portable C++11, no dependencies.
 - No dynamic memory allocation.
 - No macros or operator overloading.
-- MISRA-C++ compatible.
+- MISRA-C++ friendly.
 - Simple DSL: `transitionTo(state).wait(ms)`.
 - Easily testable on desktop.
 
